@@ -1,0 +1,6 @@
+[submodule "Desktop-app"]
+	path = Desktop-app
+	url = https://github.com/bibots101/Cervify-app.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/bibots101/Cervify-FE.git
