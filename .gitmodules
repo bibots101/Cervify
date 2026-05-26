@@ -4,3 +4,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/bibots101/Cervify-FE.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/bibots101/Cervify-BE.git
