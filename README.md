@@ -1,6 +1,8 @@
 # Cervify
 
-Cervify is a multi-module computer-aided diagnosis platform for cervical cancer analysis. The repository is organized into three independent deliverables that work together as one product:
+Cervify is a computer-aided diagnosis platform for cervical cancer analysis. It combines a FastAPI backend, a React web frontend, and an Electron desktop application into a single end-to-end system for image upload, automated analysis, progress tracking, and result review.
+
+The repository is organized into three independent deliverables that work together as one product:
 
 - [Backend](Backend/README.md) - FastAPI service that handles authentication, image upload, encrypted storage, prediction orchestration, and history persistence.
 - [Frontend](Frontend/README.md) - React + Vite web application for user sign-in, image submission, live progress tracking, and results viewing.
